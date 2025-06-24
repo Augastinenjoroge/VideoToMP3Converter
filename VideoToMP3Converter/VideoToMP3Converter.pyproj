@@ -41,7 +41,6 @@
     <Content Include="assets\music.png" />
     <Content Include="assets\Screenshot.png" />
     <Content Include="README.md" />
-    <Content Include="requirements.txt" />
   </ItemGroup>
   <ItemGroup>
     <InterpreterReference Include="Global|PythonCore|3.13" />
