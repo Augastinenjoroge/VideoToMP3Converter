@@ -90,6 +90,7 @@ Contributions are welcome! Please open an issue or submit a pull request.
       VideoToMP3Converter/
       ├── assets/                  # Static assets
       │   ├── icons/               # Application icons
+      ├── Build/                   # Published Application
       ├── core/                    # Core application logic
       │   ├── __init__.py
       │   ├── converter.py         # Video conversion logic
