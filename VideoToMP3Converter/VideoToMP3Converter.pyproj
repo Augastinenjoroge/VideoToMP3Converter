@@ -39,6 +39,7 @@
   <ItemGroup>
     <Content Include="assets\music.ico" />
     <Content Include="assets\music.png" />
+    <Content Include="assets\Screenshot.png" />
     <Content Include="requirements.txt" />
   </ItemGroup>
   <ItemGroup>
