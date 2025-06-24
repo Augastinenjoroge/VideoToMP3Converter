@@ -1,6 +1,6 @@
 # VideoToMP3 Converter
 
-![App Screenshot](assets/Screenshot.png) <!-- Add a screenshot if available -->
+![App Screenshot](VideoToMP3Converter/assets/Screenshot.png) <!-- Add a screenshot if available -->
 
 A user-friendly desktop application to convert video files to high-quality MP3 audio files with metadata support.
 
